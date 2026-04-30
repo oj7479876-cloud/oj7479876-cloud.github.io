@@ -6,9 +6,9 @@ const projects = {
     description: '공연을 홍보하고 흥행시키기 위해 제작한 포스터로 일러스트 그림과 브랜드 로고를 포함하여 목적에 맞게 제작하였습니다.'
   },
   project2: {
-    title: 'e-book 디자인',
+    title: '패키지 디자인',
     image: 'img/p2.jpg',
-    description: '레터링 디자인 프로젝트로, 타이포그래피를 중심으로 한 비주얼 아이덴티티 작업입니다.'
+    description: '제주에만 판매하는 전통 과자 제주감귤유과 박스 패키지 디자인입니다.'
   },
   project3: {
     title: '로고디자인',
@@ -18,7 +18,7 @@ const projects = {
   project4: {
     title: 'SNS베너 디자인',
     image: 'img/p4.jpg',
-    description: '비타 500음료를 주제로 하여 SNS베너로 홍보하는 방식으로 디자인 하였습니다.'
+    description: '비타 500음료를 주제로 하는 SNS베너로 홍보하는 방식으로 디자인 하였습니다.'
   },
   project5: {
     title: '리플렛 디자인',
@@ -28,7 +28,7 @@ const projects = {
   project6: {
     title: '사보디자인',
     image: 'img/p6.jpg',
-    description: '심볼과 로고타입을 결합한 통합 브랜딩 디자인입니다.'
+    description: '영진직업전문학교의 디지털편집디자인부에 관한 주제로 만든 사보디자인입니다.'
   }
 };
 
